@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spicy Chicken Stir-Fry",
+    "recipe_image": "https://i.ibb.co.com/L5xjpX4/spice.webp",
+    "short_description": "A fiery stir-fry that's quick and easy to make.",
+    "ingredients": [
+      "550 g chicken breast",
+      "120 ml soy sauce",
+      "200 g basil leaves",
+      "400 g mushrooms",
+      "2 cloves garlic, minced",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "1 onion, sliced"
+    ],
+    "preparing_time": 30,
+    "calories": 320
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Lemon Garlic Salmon",
+    "recipe_image": "https://i.ibb.co.com/ZYJ8cVk/lemon.webp",
+    "short_description": "Zesty and flavorful salmon with a lemon garlic sauce.",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tbsp olive oil",
+      "3 cloves garlic, minced",
+      "1 lemon, sliced",
+      "2 tbsp fresh parsley, chopped",
+      "1 tsp lemon zest",
+      "Salt and pepper to taste",
+      "1 tbsp butter"
+    ],
+    "preparing_time": 25,
+    "calories": 410
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Classic Beef Tacos",
+    "recipe_image": "https://i.ibb.co.com/P952Jzt/beef.webp",
+    "short_description": "Traditional beef tacos with a homemade seasoning mix.",
+    "ingredients": [
+       "500 g ground beef",
+      "1 packet taco seasoning",
+      "8 taco shells",
+      "1 tomato, diced",
+      "100 g shredded lettuce",
+      "50 g cheddar cheese, grated",
+      "1 onion, diced",
+      "Sour cream"
+    ],
+    "preparing_time": 20,
+    "calories": 370
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetarian Pasta Primavera",
+    "recipe_image": "https://i.ibb.co.com/vZvNNBw/pasta.jpg",
+    "short_description": "A fresh and colorful pasta dish loaded with vegetables.",
+    "ingredients": [
+      "300 g pasta",
+      "1 zucchini, diced",
+      "1 yellow bell pepper, sliced",
+      "150 g cherry tomatoes, halved",
+      "2 cloves garlic, minced",
+      "50 g parmesan cheese",
+      "100 g spinach",
+      "Olive oil, salt, and pepper"
+    ],
+    "preparing_time": 35,
+    "calories": 450
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Mushroom Risotto",
+    "recipe_image": "https://i.ibb.co.com/6BzcXG9/risotto.jpg",
+    "short_description": "Creamy and rich risotto with earthy mushrooms.",
+    "ingredients": [
+       "300 g Arborio rice",
+      "200 g mushrooms, sliced",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "120 ml white wine",
+      "700 ml chicken or vegetable broth",
+      "50 g parmesan cheese",
+      "1 tbsp butter"
+    ],
+    "preparing_time": 40,
+    "calories": 520
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "BBQ Pulled Pork Sandwich",
+    "recipe_image": "https://i.ibb.co.com/5W9mXML/bbg.jpg",
+    "short_description": "Slow-cooked pulled pork with a smoky BBQ sauce.",
+    "ingredients": [
+      "1 kg pork shoulder",
+      "200 ml BBQ sauce",
+      "6 hamburger buns",
+      "100 g coleslaw",
+      "Salt and pepper to taste",
+      "1 onion, sliced",
+      "2 tbsp brown sugar",
+      "2 tbsp apple cider vinegar"
+    ],
+    "preparing_time": 80,
+    "calories": 680
+  }
+]
