@@ -10,7 +10,7 @@ const Recipies = ({addRecipeToqeue}) => {
       .then((res) => res.json())
       .then((data) => setRecipies(data))
   }, [])
-//   console.log(recipies)
+//   console.log(recipies);
   return (
     <div className="md:w-2/3">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
